@@ -1,0 +1,1 @@
+Contact's Manager is an application that allows you to add a new contact, search for a contact, delete a contact and edit a contact. The HTML, CSS and Javascript is all of my own code. 
